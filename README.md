@@ -16,7 +16,6 @@ Currently studying machine learning, mostly regression problems. Willing on lear
 
 ## 📊 Stats
 
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AHalic&hide=contribs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&border_color=545768A5">
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=AHalic&hide=contribs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6">
-
-<img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=AHalic&theme=monokai-metallian&background=0D1116&border=A4AACB00&stroke=52415BC1&ring=AD08C6D8&fire=CE09ECD8&currStreakNum=A4AACB&sideNums=A4AACB&currStreakLabel=007EC6&sideLabels=007EC6">
+<img align="right" width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=AHalic&theme=monokai-metallian&background=0D1116&border=545768A5&stroke=52415BC1&ring=AD08C6D8&fire=CE09ECD8&currStreakNum=A4AACB&sideNums=A4AACB&currStreakLabel=007EC6&sideLabels=007EC6">
