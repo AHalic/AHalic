@@ -7,7 +7,7 @@
 
 [<img align="right" width="20%" src="assets/cat-typing.gif">](assets/cat-typing.gif)
 
-Currently studying machine learning, mostly regression problems. Willing on learning more about software development.
+Currently studying machine learning, mostly regression problems, and software development.
 - 🛠 Python / Numpy / Pytorch / Pandas
 - ✏️ JavaScript / NodeJS / SQL
 - 🇧🇷 Based in Brazil
