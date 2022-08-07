@@ -12,3 +12,11 @@ Currently studying machine learning, mostly regression problems. Willing on lear
 - ✏️ JavaScript / NodeJS / SQL
 - 🇧🇷 Based in Brazil
 - 👩 Pronous: she/her
+
+
+## 📊 Stats
+
+
+<img align="left" width="80%" src="https://github-readme-stats.vercel.app/api?username=AHalic&hide=contribs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6">
+
+<img align="right" width="73%" src="http://github-readme-streak-stats.herokuapp.com?user=AHalic&theme=monokai-metallian&background=0D1116&border=DD272700&stroke=52415BC1&ring=AD08C6D8&fire=CE09ECD8&currStreakNum=A4AACB&sideNums=A4AACB&currStreakLabel=007EC6&sideLabels=007EC6">
