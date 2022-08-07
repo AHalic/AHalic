@@ -1,6 +1,6 @@
 # Welcome to my Github page!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=927DF7&vCenter=true&width=500&height=40&lines=Hi+there%2C+I'm+Sophie!;I'm+a+computer+science+student;Check+out+my+work+bellow+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=927DF7&vCenter=true&width=500&height=40&lines=Hi+there%2C+I'm+Sophie!;I'm+a+computer+science+student;Check+out+my+work+bellow+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 ---
 
