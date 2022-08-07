@@ -4,7 +4,7 @@
 
 ---
 
-[<img align="right" width="35%" src="assets/cat-typing.gif">](assets/cat-typing.gif)
+[<img align="right" width="15%" src="assets/cat-typing.gif">](assets/cat-typing.gif)
 
 Currently studying machine learning, mostly regression problems. Willing on learning more about software development.
 - 🛠 Python / Numpy / Pytorch / Pandas
