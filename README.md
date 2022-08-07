@@ -9,5 +9,6 @@
 
 Currently studying machine learning, mostly regression problems. Willing on learning more about software development.
 - 🛠 Python / Numpy / Pytorch / Pandas
-- 💻 JavaScript / NodeJS
+- ✏️ JavaScript / NodeJS / SQL
 - 🇧🇷 Based in Brazil
+- 👩 Pronous: she/her
