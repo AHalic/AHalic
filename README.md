@@ -8,7 +8,7 @@
 [<img align="right" width="20%" src="assets/cat-typing.gif">](assets/cat-typing.gif)
 
 Currently studying software development.
-- ✏️ JavaScript / NodeJS / SQL
+- ✏️ JavaScript / NodeJS / React / SQL
 - 🛠 Python / Numpy / Pytorch / Pandas
 - 🇧🇷 Based in Brazil
 - 👩 Pronous: she/her
