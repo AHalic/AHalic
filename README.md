@@ -7,9 +7,9 @@
 
 [<img align="right" width="20%" src="assets/cat-typing.gif">](assets/cat-typing.gif)
 
-Currently studying machine learning, mostly regression problems, and software development.
-- 🛠 Python / Numpy / Pytorch / Pandas
+Currently studying software development.
 - ✏️ JavaScript / NodeJS / SQL
+- 🛠 Python / Numpy / Pytorch / Pandas
 - 🇧🇷 Based in Brazil
 - 👩 Pronous: she/her
 
