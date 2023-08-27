@@ -10,8 +10,6 @@
 Currently studying software development.
 - ✏️ JavaScript / NodeJS / React / SQL
 - 🛠 Python / Numpy / Pytorch / Pandas
-- 🇧🇷 Based in Brazil
-- 👩 Pronous: she/her
 
 
 ## 📊 Stats
